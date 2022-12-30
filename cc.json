@@ -1,0 +1,41 @@
+[
+  {
+    "system_id": 3,
+    "name": "网络漏洞检测",
+    "key": "NetworkAudit",
+    "usage_limit": 0,
+    "usage_counter": 0,
+    "sample_limit": 0,
+    "sample_used": 0,
+    "features": null,
+    "started_at": "",
+    "ended_at": "",
+    "error_msg": ""
+  },
+  {
+    "system_id": 3,
+    "name": "固件检测",
+    "key": "FwAudit",
+    "usage_limit": 0,
+    "usage_counter": 2,
+    "sample_limit": 0,
+    "sample_used": 2,
+    "features": null,
+    "started_at": "",
+    "ended_at": "",
+    "error_msg": ""
+  },
+  {
+    "system_id": 3,
+    "name": "软件组件安全",
+    "key": "SoftwareComponentSecurity",
+    "usage_limit": 0,
+    "usage_counter": 0,
+    "sample_limit": 0,
+    "sample_used": 0,
+    "features": null,
+    "started_at": "",
+    "ended_at": "",
+    "error_msg": ""
+  }
+]
